@@ -25,8 +25,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Figma
 - Javascript
+- API [TMDB](https://developer.themoviedb.org/reference/movie-popular-list)
 
 <br>
+
+## DEMO
 
 ## 🔖 Layout
 
