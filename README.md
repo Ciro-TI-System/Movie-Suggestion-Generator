@@ -13,7 +13,7 @@ Desenvolvimento de um gerador de sugestão de filmes com inteligência artificia
 <br>
 
 <p align="center">
-  <img src=".github/Suggestion-Generator-Movies.png" width="100%">
+  <img src=".github/Suggestion-Generator-Movies.png" width="70%">
 </p>
 
 <br>
@@ -30,6 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <br>
 
 ## DEMO
+
+https://github.com/Ciro-TI-System/Movie-Suggestion-Generator/assets/78507494/4ee3b6f4-0fbd-4534-ae2a-f6a03152b6d0
 
 ## 🔖 Layout
 
